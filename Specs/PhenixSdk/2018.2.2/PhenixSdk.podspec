@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = "PhenixSdk"
-  s.version             = "2018.2.2"
+  s.version             = "2019.2.2"
   s.summary             = "Phenix Real-Time Video SDK."
   s.homepage            = "https://phenixrts.com"
   s.license             = ''
